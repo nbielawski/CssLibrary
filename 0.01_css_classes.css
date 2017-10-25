@@ -1,0 +1,21 @@
+body{
+	background-color: blue;
+}
+
+.css-classes{
+	background-color: lightgray;
+}
+
+.redFont{
+	color: red;
+}
+
+.greenFont{
+	color: green;
+	font-size: medium;
+
+}
+
+.blueFont{
+	color: blue;
+}
